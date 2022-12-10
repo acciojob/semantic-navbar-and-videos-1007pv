@@ -1,2 +1,16 @@
-
 /* Your CSS Code here. */
+li {
+    display: inline;
+    padding: 10px;
+}
+
+li a {
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+}
+
+video {
+    height: 350px;
+    width: 500px;
+}
